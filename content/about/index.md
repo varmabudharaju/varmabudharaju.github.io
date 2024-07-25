@@ -20,7 +20,8 @@ skills:
   - Eclipse
   - Cisco IOS
   - BGP, OSPF,EIGRP, MPLS
-  - Network design and Network Management
+  - Network design
+  - Network Management
 
 ---
 As a kid, I was drawn to the beauty of mathematics, but my fascination took a new direction when I discovered computer science. It was the challenge of solving complex problems that captivated me, fueling my passion for computer science for the very same reason.
